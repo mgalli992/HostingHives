@@ -83,6 +83,10 @@ p {
   #index-banner .section {
     top: 0;
   }
+
+  .header {
+    font-size: 300%;
+  }
   .nav-wrapper {
     padding: 0 10px;
   }
